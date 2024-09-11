@@ -1,0 +1,6 @@
+@AutofacDependecyInjectionFramework_HostAddress = http://localhost:5021
+
+GET {{AutofacDependecyInjectionFramework_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
